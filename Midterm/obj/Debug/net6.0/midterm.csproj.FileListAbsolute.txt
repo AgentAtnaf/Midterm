@@ -1,0 +1,15 @@
+C:\Users\fanta\Desktop\midterm\obj\Debug\net6.0\midterm.csproj.AssemblyReference.cache
+C:\Users\fanta\Desktop\midterm\obj\Debug\net6.0\midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanta\Desktop\midterm\obj\Debug\net6.0\midterm.AssemblyInfoInputs.cache
+C:\Users\fanta\Desktop\midterm\obj\Debug\net6.0\midterm.AssemblyInfo.cs
+C:\Users\fanta\Desktop\midterm\obj\Debug\net6.0\midterm.csproj.CoreCompileInputs.cache
+C:\Users\fanta\Desktop\midterm\bin\Debug\net6.0\midterm.exe
+C:\Users\fanta\Desktop\midterm\bin\Debug\net6.0\midterm.deps.json
+C:\Users\fanta\Desktop\midterm\bin\Debug\net6.0\midterm.runtimeconfig.json
+C:\Users\fanta\Desktop\midterm\bin\Debug\net6.0\midterm.dll
+C:\Users\fanta\Desktop\midterm\bin\Debug\net6.0\ref\midterm.dll
+C:\Users\fanta\Desktop\midterm\bin\Debug\net6.0\midterm.pdb
+C:\Users\fanta\Desktop\midterm\obj\Debug\net6.0\midterm.dll
+C:\Users\fanta\Desktop\midterm\obj\Debug\net6.0\ref\midterm.dll
+C:\Users\fanta\Desktop\midterm\obj\Debug\net6.0\midterm.pdb
+C:\Users\fanta\Desktop\midterm\obj\Debug\net6.0\midterm.genruntimeconfig.cache
